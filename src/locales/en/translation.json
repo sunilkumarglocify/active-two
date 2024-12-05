@@ -1,0 +1,17 @@
+
+{
+    "welcome": "Welcome {{name}}",
+    "homeTitle": "Home",
+    "activityTitle":"Activity Management",
+    "customerTitle":"Customer Insight",
+    "signInOutTitle":"Sign-in/Out",
+    "couponsTitle":"Coupons",
+    "businessTitle":"Business Profile",
+    "shopTitle":"Shop",
+    "campaignTitle":"Campaign",
+    "reviewsTitle":"Reviews",
+    "reportsTitle":"Reports",
+    "settingsTitle":"Settings",
+    "signOutTitle":"Sign Out"
+  }
+  

@@ -1,0 +1,15 @@
+{
+  "welcome": "歡迎{{name}}",
+  "homeTitle": "家",
+  "activityTitle": "活動管理",
+  "customerTitle": "客戶洞察",
+  "signInOutTitle": "登錄/註銷",
+  "couponsTitle": "優惠券",
+  "businessTitle": "業務簡介",
+  "shopTitle": "店",
+  "campaignTitle": "運動",
+  "reviewsTitle": "評論",
+  "reportsTitle": "報告",
+  "settingsTitle": "設置",
+  "signOutTitle": "登出"
+}

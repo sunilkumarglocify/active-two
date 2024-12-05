@@ -1,0 +1,15 @@
+{
+  "welcome": "Bienvenido {{name}}",
+  "homeTitle": "Inicio",
+  "activityTitle":"Gestión de Actividades",
+  "customerTitle":"Información del Cliente",
+  "signInOutTitle":"Inicio/Cierre de Sesión",
+  "couponsTitle":"Cupones",
+  "businessTitle":"Perfil de Negocio",
+  "shopTitle":"Tienda",
+  "campaignTitle":"Campaña",
+  "reviewsTitle":"Reseñas",
+  "reportsTitle":"Informes",
+  "settingsTitle":"Configuración",
+  "signOutTitle":"Cerrar Sesión"
+}
